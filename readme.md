@@ -50,13 +50,11 @@ With over 1 years of production experience, I don't just write code—I engineer
 
 ### Featured Projects
 
-### Featured Projects
-
-- ✈️ [**Travel Booking Platform**](https://fasifys.com/) - Comprehensive booking platform built for **Sparktech Agency IT LTD**, Mohakhali, Dhaka (August 2024 – Present).
+- ✈️ [**Travel Booking Platform**](https://fasifys.com/) - Comprehensive booking platform built for **Sparktech Agency IT LTD**
 
   **Role:** Full Stack Web Developer
 
-  **Responsibilities & Tech Stack:**  
+  **Tech Stack:**  
   • **Frontend:** HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux, ShadCN, TypeScript  
   • **Backend:** Express.js, Node.js, TypeScript, MongoDB, Prisma (ORM), WebSocket, Multer, Node-Cron, Google Maps integration with country-wise price updates and country-specific payment gateways  
   • **Authentication:** JWT, OAuth  
