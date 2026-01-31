@@ -102,6 +102,8 @@ With over 1 years of production experience, I don't just write code—I engineer
 <img src="https://github-readme-stats.vercel.app/api?username=TAIJULAMAN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=TAIJULAMAN%27s%20GitHub%20Stats" alt="GitHub Stats" />
 </div>
 
+### Top Repositories
+
 ### 🚀 Top Repositories
 
 <p align="center">
