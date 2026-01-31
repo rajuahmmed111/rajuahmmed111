@@ -25,19 +25,25 @@ With over 1 years of production experience, I don't just write code—I engineer
 
 ## Technology Stack
 
-### Frontend Architecture
+### Backend & Infrastructure
 
-![JavaScript](https://img.shields.io/badge/JavaScript-329932.svg?style=flat&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a.svg?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=flat&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-
-### Mobile Development
-
-![React Native](https://img.shields.io/badge/React_Native-20232a.svg?style=flat&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020.svg?style=flat&logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000.svg?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=flat&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat&logo=firebase&logoColor=black)
+![WebSocket](https://img.shields.io/badge/WebSocket-007ACC.svg?style=flat&logo=websockets&logoColor=white)
+![Multer](https://img.shields.io/badge/Multer-000000.svg?style=flat&logo=filezilla&logoColor=white)
+![Node-Cron](https://img.shields.io/badge/Node--Cron-339933.svg?style=flat&logo=cron&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-32325D.svg?style=flat&logo=jsonwebtokens&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF.svg?style=flat&logo=stripe&logoColor=white)
+![Paystack](https://img.shields.io/badge/Paystack-00B14F.svg?style=flat&logo=paystack&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4.svg?style=flat&logo=googlemaps&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-FF3E30.svg?style=flat&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=flat&logo=netlify&logoColor=white)
 
 ### Backend & Infrastructure
 
@@ -50,7 +56,7 @@ With over 1 years of production experience, I don't just write code—I engineer
 
 ### Featured Projects
 
-- ✈️ [**Travel Booking Platform**](https://fasifys.com/) - Comprehensive booking platform built for **Sparktech Agency IT LTD**
+- ✈️ [**Travel Booking Platform**](https://fasifys.com/) - Comprehensive booking platform built for **Fasifys LTD**
 
   **Role:** Full Stack Web Developer
 
