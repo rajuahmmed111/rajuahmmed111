@@ -112,10 +112,9 @@ With over 1 years of production experience, I don't just write code—I engineer
 
 <br />
 
-<p>© <span id="year"></span> Md. Raju Ahmmed. Dhaka, Bangladesh 🇧🇩</p>
-<script>
-document.getElementById("year").textContent = new Date().getFullYear();
-</script>
+<div align="center">
+<p>© 2026 Md. Raju Ahmmed. Dhaka, Bangladesh 🇧🇩</p>
+</div>
 
 ---
 
