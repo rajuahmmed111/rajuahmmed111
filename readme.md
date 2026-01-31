@@ -67,18 +67,35 @@ With over 1 years of production experience, I don't just write code—I engineer
 
 ### Featured Projects
 
-- ✈️ [**Travel Booking Platform**](https://fasifys.com/) - Comprehensive booking platform built for **Fasifys LTD**
+- ✈️ [**Travel Booking Platform**](https://fasifys.com/) - Comprehensive booking platform built for **Fasifys LTD**  
 
-  **Role:** Full Stack Web Developer
+  **Role:** Full Stack Web Developer  
 
   **Tech Stack:**  
   • **Frontend:** HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux, ShadCN, TypeScript  
   • **Backend:** Express.js, Node.js, TypeScript, MongoDB, Prisma (ORM), WebSocket, Multer, Node-Cron, Google Maps integration with country-wise price updates and country-specific payment gateways  
   • **Authentication:** JWT, OAuth  
   • **Payment Gateway:** Stripe, Paystack  
-  • **Deployment:** AWS
+  • **Deployment:** AWS  
 
-- 💬 [**Messaging & Video Call App**](#) - Real-time chat & video calling with WebSocket and WebRTC integration using **React Native**, **Socket.io** and **WebRTC**.
+- 💬 [**Messaging & Video Call App**](#) - Real-time chat & video calling app with WebSocket and WebRTC integration  
+
+  **Role:** Full Stack Web Developer  
+
+  **Tech Stack:** React Native, Socket.io, WebRTC  
+
+- 📱 [**Counta App**](https://play.google.com/store/apps/details?id=com.rita.counta_app) - Mobile app backend development  
+
+  **Role:** Backend Developer  
+
+  **Tech Stack:** Node.js, Express.js, MongoDB, Prisma, JWT, Payment Gateway integrations  
+
+- 🌐 [**RapidFlow Fulfillment**](https://rapidflowfulfillment.com/) - Full stack e-commerce/fulfillment platform  
+
+  **Role:** Full Stack Web Developer  
+
+  **Tech Stack:** React.js, Next.js, Node.js, Express.js, MongoDB, Prisma, PayPal, JWT, AWS Deployment  
+
 
 ### GitHub Analytics
 
