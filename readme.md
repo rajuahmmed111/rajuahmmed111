@@ -8,7 +8,6 @@
 <a href="https://my-portfolio-nine-dun-64.vercel.app/">Portfolio</a> •
 <a href="https://www.linkedin.com/in/md-raju-ahmed-91830a285/">LinkedIn</a> •
 <a href="mailto:ahraju2003@gmail.com">Email</a> •
-<a href="https://github.com/TAIJULAMAN">GitHub</a>
 </div>
 <br />
  
@@ -51,7 +50,19 @@ With over 1 years of production experience, I don't just write code—I engineer
 
 ### Featured Projects
 
-- ✈️ [**Travel Booking Platform**](#) - Comprehensive booking flow with calendar integration and payment gateway using **Next.js**, **Tailwind**, and **Stripe**.
+### Featured Projects
+
+- ✈️ [**Travel Booking Platform**](https://fasifys.com/) - Comprehensive booking platform built for **Sparktech Agency IT LTD**, Mohakhali, Dhaka (August 2024 – Present).
+
+  **Role:** Full Stack Web Developer
+
+  **Responsibilities & Tech Stack:**  
+  • **Frontend:** HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux, ShadCN, TypeScript  
+  • **Backend:** Express.js, Node.js, TypeScript, MongoDB, Prisma (ORM), WebSocket, Multer, Node-Cron, Google Maps integration with country-wise price updates and country-specific payment gateways  
+  • **Authentication:** JWT, OAuth  
+  • **Payment Gateway:** Stripe, Paystack  
+  • **Deployment:** AWS
+
 - 💬 [**Messaging & Video Call App**](#) - Real-time chat & video calling with WebSocket and WebRTC integration using **React Native**, **Socket.io** and **WebRTC**.
 
 ### GitHub Analytics
