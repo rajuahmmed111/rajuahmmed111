@@ -28,6 +28,7 @@ With over 1 years of production experience, I don't just write code—I engineer
 ### Backend & Infrastructure
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8.svg?style=flat&logo=go&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000.svg?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat&logo=postgresql&logoColor=white)
@@ -38,7 +39,11 @@ With over 1 years of production experience, I don't just write code—I engineer
 ![Node-Cron](https://img.shields.io/badge/Node--Cron-339933.svg?style=flat&logo=cron&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-32325D.svg?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF.svg?style=flat&logo=stripe&logoColor=white)
+![SSLCommerz](https://img.shields.io/badge/SSLCommerz-FF6600.svg?style=flat&logo=sslcommerz&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-003087.svg?style=flat&logo=paypal&logoColor=white)
 ![Paystack](https://img.shields.io/badge/Paystack-00B14F.svg?style=flat&logo=paystack&logoColor=white)
+![Flutterwave](https://img.shields.io/badge/Flutterwave-00BFFF.svg?style=flat&logo=flutter&logoColor=white)
+![Payoneer](https://img.shields.io/badge/Payoneer-FF6C00.svg?style=flat&logo=payoneer&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4.svg?style=flat&logo=googlemaps&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=flat&logo=vercel&logoColor=white)
@@ -57,7 +62,6 @@ With over 1 years of production experience, I don't just write code—I engineer
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB.svg?style=flat&logo=material-ui&logoColor=white)
 ![ShadCN](https://img.shields.io/badge/ShadCN-000000.svg?style=flat&logo=shadcn&logoColor=white)
-
 
 ## Published Projects, Packages & Extensions
 
