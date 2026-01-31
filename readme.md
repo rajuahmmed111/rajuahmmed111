@@ -102,15 +102,27 @@ With over 1 years of production experience, I don't just write code—I engineer
 <img src="https://github-readme-stats.vercel.app/api?username=TAIJULAMAN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=TAIJULAMAN%27s%20GitHub%20Stats" alt="GitHub Stats" />
 </div>
 
-### Top Repositories
+### 🚀 Top Repositories
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajuahmmed111&repo=timothy-backend&theme=tokyonight&show_owner=true" alt="Timothy Backend" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajuahmmed111&repo=timothy-frontend&theme=tokyonight&show_owner=true" alt="Timothy Frontend" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajuahmmed111&repo=samir-booking-backend&theme=tokyonight&show_owner=true" alt="Samir Booking Backend" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajuahmmed111&repo=therapist-backend&theme=tokyonight&show_owner=true" alt="Therapist Backend" />
-</div>
+<p align="center">
+  <a href="https://github.com/rajuahmmed111/timothy-backend">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajuahmmed111&repo=timothy-backend&theme=tokyonight"/>
+  </a>
 
+  <a href="https://github.com/rajuahmmed111/timothy-frontend">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajuahmmed111&repo=timothy-frontend&theme=tokyonight"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rajuahmmed111/samir-booking-backend">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajuahmmed111&repo=samir-booking-backend&theme=tokyonight"/>
+  </a>
+
+  <a href="https://github.com/rajuahmmed111/therapist-backend">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajuahmmed111&repo=therapist-backend&theme=tokyonight"/>
+  </a>
+</p>
 
 <br />
 
