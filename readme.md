@@ -104,29 +104,6 @@ With over 1 years of production experience, I don't just write code—I engineer
 
 ### Top Repositories
 
-### 🚀 Top Repositories
-
-<p align="center">
-  <a href="https://github.com/rajuahmmed111/timothy-backend">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajuahmmed111&repo=timothy-backend&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/rajuahmmed111/timothy-frontend">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajuahmmed111&repo=timothy-frontend&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/rajuahmmed111/samir-booking-backend">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajuahmmed111&repo=samir-booking-backend&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/rajuahmmed111/therapist-backend">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajuahmmed111&repo=therapist-backend&theme=tokyonight" />
-  </a>
-</p>
-
-
 <br />
 
 <div align="center">
