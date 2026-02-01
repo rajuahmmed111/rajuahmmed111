@@ -45,10 +45,13 @@ With over 1 years of production experience, I don't just write code—I engineer
 ![Flutterwave](https://img.shields.io/badge/Flutterwave-00BFFF.svg?style=flat&logo=flutter&logoColor=white)
 ![Payoneer](https://img.shields.io/badge/Payoneer-FF6C00.svg?style=flat&logo=payoneer&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4.svg?style=flat&logo=googlemaps&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=flat&logo=cloudflare&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-FF3E30.svg?style=flat&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=flat&logo=netlify&logoColor=white)
+
 
 ### Frontend
 
