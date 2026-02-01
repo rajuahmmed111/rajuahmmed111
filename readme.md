@@ -102,9 +102,22 @@ With over 1 years of production experience, I don't just write code—I engineer
 <img src="https://github-readme-stats.vercel.app/api?username=TAIJULAMAN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=TAIJULAMAN%27s%20GitHub%20Stats" alt="GitHub Stats" />
 </div>
 
-### Top Repositories
+### 📊 GitHub Analytics
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajuahmmed111&show_icons=true&theme=tokyonight&count_private=true" alt="Raju Ahmmed GitHub Stats" />
+</p>
+ 
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rajuahmmed111&theme=tokyonight" alt="GitHub Coding Streak" />
+</p>
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajuahmmed111&show_icons=true&theme=tokyonight&layout=compact" alt="Top Programming Languages" />
+</p>
 
-<br />
+
+<br />  
 
 <div align="center">
 <p>© 2026 Md. Raju Ahmmed. Dhaka, Bangladesh 🇧🇩</p>
