@@ -96,12 +96,6 @@ With over 1 years of production experience, I don't just write code—I engineer
 
   **Tech Stack:** React.js, Next.js, Node.js, Express.js, MongoDB, Prisma, PayPal, JWT, Cloudflare Deployment
 
-### GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TAIJULAMAN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=TAIJULAMAN%27s%20GitHub%20Stats" alt="GitHub Stats" />
-</div>
-
 ### 📊 GitHub Analytics
  
 <p align="center">
@@ -116,6 +110,8 @@ With over 1 years of production experience, I don't just write code—I engineer
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajuahmmed111&show_icons=true&theme=tokyonight&layout=compact" alt="Top Programming Languages" />
 </p>
 
+
+### Top Repositories
 
 <br />  
 
