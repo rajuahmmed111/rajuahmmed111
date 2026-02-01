@@ -52,7 +52,6 @@ With over 1 years of production experience, I don't just write code—I engineer
 ![Render](https://img.shields.io/badge/Render-FF3E30.svg?style=flat&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=flat&logo=netlify&logoColor=white)
 
-
 ### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -66,7 +65,6 @@ With over 1 years of production experience, I don't just write code—I engineer
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB.svg?style=flat&logo=material-ui&logoColor=white)
 ![ShadCN](https://img.shields.io/badge/ShadCN-000000.svg?style=flat&logo=shadcn&logoColor=white)
-
 
 ## Published Projects, Packages & Extensions
 
@@ -102,7 +100,7 @@ With over 1 years of production experience, I don't just write code—I engineer
   **Tech Stack:** React.js, Next.js, Node.js, Express.js, MongoDB, Prisma, PayPal, JWT, Cloudflare Deployment
 
 ### 📊 GitHub Analytics
- 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajuahmmed111&show_icons=true&theme=tokyonight&count_private=true" alt="Raju Ahmmed GitHub Stats" />
 </p>
@@ -115,10 +113,9 @@ With over 1 years of production experience, I don't just write code—I engineer
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajuahmmed111&show_icons=true&theme=tokyonight&layout=compact" alt="Top Programming Languages" />
 </p>
 
-
 ### Top Repositories
 
-<br />  
+<br />
 
 <div align="center">
 <p>© 2026 Md. Raju Ahmmed. Dhaka, Bangladesh 🇧🇩</p>
